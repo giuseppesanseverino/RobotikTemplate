@@ -1,4 +1,4 @@
-This is a template for the projects repositiories of students of the Ingenieurwissenschaftliches Projekt (Robotik)
+This is a template for the projects repositiory for the students of the Ingenieurwissenschaftliches Projekt (Robotik).
 
 You can use this repository as a template. The following steps are mandatory:
 
